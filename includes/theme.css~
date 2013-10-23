@@ -1,0 +1,179 @@
+/*DEPARTMENT OF COMPUTER SCIENCE 
+	INDIVIDUAL PROJECT COURSEWORK ONE
+	NAME: RUYONGA DANIEL BOSCO
+	RENO: 11/U/11749/EVE
+	STDNO: 211013442
+	DUE 6/MARCH/2013
+	*/
+
+
+h1{
+	 color:#000000;
+	 text-align:center;
+	 font-family:times;
+	 font-size:2em;
+	 padding-top: 10px;	
+	 text-transform: uppercase;
+	
+	
+	}
+h2,h3{
+	color:#FFF;
+	padding-top: 30px;	
+	text-align:center;
+	font-family:times;
+	color:black;
+	text-transform: uppercase;
+	letter-spacing: 0.1em;
+	font-style: normal;
+	
+	}
+p{
+	font-family: 20px Times;
+	}
+	ol{
+	font-family: 20px Times;
+	
+	}
+	body{
+	background:#827839;
+	font-size:normal;
+	padding:0px;
+	color:#000000;
+	margin:0px;
+	
+	line-height: 150%;
+	font-family:Times bold;
+	font-size:100%;   
+	}
+#inner{
+	display:block;
+	background:#ADA96E;
+	color:#ffffff;
+	padding:5px;
+        margin-top:5%;
+	margin-left:5%;
+	margin-right:5%;
+border-radius:2em;	 
+		}
+		
+		
+#contactus fieldset
+{
+ background:#C9BE62; 
+  border:1px solid #ccc;
+   -moz-border-radius: 10px;
+  -webkit-border-radius: 10px;
+  -khtml-border-radius: 10px;
+  border-radius: 10px; 
+
+}
+#contactus input[type="submit"]
+{
+   width:100px;
+   height:30px;
+   font-size: 1.1em;
+   background:#C9BE62;
+   font-family: Times New Roman, Times New Roman, sans-serif;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+   border-radius: 5px;   
+}
+#contactus input[type="button"]
+{
+   width:100px;
+   height:30px;
+   font-size:1.1em;
+   font-family: Times New Roman, Times New Roman, sans-serif;
+   background:#C9BE62;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+   border-radius: 5px;   
+}
+#contactus input[type="reset"]
+{
+   width:100px;
+   height:30px;
+  font-size:1.1em;
+   padding-left:0px;
+   padding-right: 2px;
+   background:#C9BE62;
+    font-family: Times New Roman, Times New Roman, sans-serif;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+   border-radius: 5px;   
+}
+
+#contactus input[type="text"]
+{
+  height:25px;
+   width:250px;
+   float:right;
+   display: inline;
+   background:#827839;
+   margin-bottom:3px;
+color:#fff;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+   border-radius: 5px;   
+  
+}
+#st {
+    text-transform:uppercase;
+   }
+
+
+#contactus .container
+{
+   margin-top:8px;
+   margin-bottom: 10px;
+}
+
+#contactus .error
+{
+   font-family: Times New Roman, Times New Roman, sans-serif; 
+   font-size: 0.7em;
+   color: #900;
+   background-color : #ffff00;
+}
+
+#contactus fieldset#antispam
+{
+   padding:2px;
+   border-top:1px solid #EEE;
+   
+  
+}
+
+#contactus fieldset#antispam legend
+{
+   font-family : Times New Roman, sans-serif;
+   font-size: 2 em;
+   font-weight:bold;
+   color:#333; 
+    
+}
+
+#contactus .short_explanation
+{
+   font-family : Times New Roman, sans-serif;
+   font-size: 0.6em;
+   color:#333;   
+}
+
+#contactus input[type="text"]:focus,textarea:focus
+{
+  color : #009;
+  border : 1px solid #990000;
+  background-color : #ffff99;
+  font-weight:bold;
+  }
+#footer{
+	 text-align:center;
+	 Border-bottom: 1px solid black;
+	 color:black;
+	
+	}
+#td1{
+ background:black;
+}
